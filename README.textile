@@ -1,0 +1,4 @@
+h1. The Learn Rails Website
+
+This repository contains the static web pages for the site at "http://learnrails.github.io":http://learnrails.github.io.
+
