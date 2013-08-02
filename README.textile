@@ -1,3 +1,9 @@
 h1. The Learn Rails Website
 
 This repository contains the static web pages for the site at "http://learnrails.github.io":http://learnrails.github.io.
+
+h2. Contributing
+
+This is the source repository for a community website featuring recommended resources for learning Ruby on Rails. Anyone can suggest resources to learn Rails and add links. All contributions are screened by the project maintainers to prevent spam.
+
+Create a "GitHub issue":https://github.com/learnrails/learnrails.github.com/issues to suggest a resource. Or help out by "editing the pages":https://github.com/learnrails/learnrails.github.com/wiki directly in the GitHub wiki. Create a GitHub issue to let the project maintainers know your addition is ready for review. All contributions are screened before the website is updated.
