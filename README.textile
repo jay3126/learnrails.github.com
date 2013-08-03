@@ -52,7 +52,7 @@ Use "RVM":https://rvm.io/ to install Ruby 1.9.3 and create a project-specific ge
 
 h3. Gems
 
-The gollum-site gem requires Nokogiri. If you are using the Nitrous.io hosted development environment, install Nokogiri befoe installing the gollum-site gem.
+The gollum-site gem requires Nokogiri. If you are using the Nitrous.io hosted development environment, install Nokogiri before installing the gollum-site gem.
 
 <pre>
 $ gem install nokogiri
